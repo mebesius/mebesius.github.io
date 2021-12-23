@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Odin Mebesius</title>
+    <link>https://mebesius.github.io/</link>
+    <description>Recent content on Odin Mebesius</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Dec 2021 21:49:59 -0800</lastBuildDate><atom:link href="https://mebesius.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://mebesius.github.io/about/</link>
+      <pubDate>Tue, 21 Dec 2021 21:49:59 -0800</pubDate>
+      
+      <guid>https://mebesius.github.io/about/</guid>
+      <description>Who Am I? I&amp;rsquo;m Odin, a 4th year computer engineering student at UBC. Throughout my time at UBC, I have taken a variety of courses in software engineering, ranging from data structures and algorithms, to computer communications, to cybersecurity. I have done both front-end (Android, React, and React Native), and back-end (FastAPI, NodeJS, MySQL) development during my co-ops, class projects, and projects with UBC Launchpad.
+Interests I love to read. I enjoy the depth offered by books, both in fiction and non-fiction, that cannot be found in film or television, or in the news.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://mebesius.github.io/blog/post1/</link>
+      <pubDate>Tue, 21 Dec 2021 21:49:59 -0800</pubDate>
+      
+      <guid>https://mebesius.github.io/blog/post1/</guid>
+      <description>More to come soon&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
